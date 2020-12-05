@@ -96,14 +96,14 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 
 Ket: Aktiv 24 jam
 
-## Donasi
-* [`Donasi 👾AR15BOT👾`](https://saweria.co/aris187id)
+
+
 
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`Youtube Admin`] belum buat
+* [`Instagram Admin`](https://instagram.com/kamaadoo_tanjiroo)
+* [`WhatsApp Admin `](https://wa.me/+6281368965962)
 ## THANKS TO
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
